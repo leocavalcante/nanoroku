@@ -1,1 +1,1 @@
-web: php app.php start
+web: php -dswoole.use_shortname=Off app.php start
