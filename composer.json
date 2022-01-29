@@ -1,0 +1,21 @@
+{
+    "name": "leocavalcante/nanoroku",
+    "description": "Hyperf's Nano + Salesforce's Heroku",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "hyperf/nano": "^1.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "swoole/ide-helper": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "lc@leocavalcante.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
