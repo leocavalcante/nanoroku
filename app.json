@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP/Swoole+Hyperf/Nano",
+  "description": "Hyperf's Nano + Salesforce's Heroku",
+  "repository": "https://github.com/leocavalcante/nanoroku",
+  "addons": []
+}
